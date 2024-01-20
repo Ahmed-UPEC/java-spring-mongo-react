@@ -66,3 +66,22 @@ Frontend :
 
 
 #### **A short video will be provided as the app will not be deployed online + ppt for images**
+
+
+### Limitation & improvements
+Limitation :
+1. Mainly knowledge in my case as I Have almost never worked with the Spring framework before
+
+Improvements : 
+1. Deploy the app, the front can be hosted on a service like firebase and the backend on AWS ou GCP
+2. To enhance the UX we should add image / profile picture in an application like this
+3. Adding a search bar to lookup to a specific user and making queries to the DB by name, email or studentID
+4. In an application like this, sensitive data should encrypted in the database
+
+To make It simple as I am using a NO-SQL Database we can hook it to Google Firebase (Firestore) this way we can directly host the app (Front + DB) using Firebase Hosting services. 
+As a Python dev I would have consider it building using Python Flask framework, the Front remains the same.
+PS : The Firebase Firestore solution can be handy because Google is handling the encryption of the data.
+
+But I know for a fact that Java is preferred for company-level development due to its platform independence, extensive ecosystem, and mature technology, enabling scalable and secure solutions across diverse domains. Its emphasis on object-oriented programming, versatility, and robust tooling further positions Java as an ideal choice for constructing large-scale, enterprise-level applications.
+
+In this project I did not use any Paradigm tool to visualize the class, as it's not a complexe project and there are not a lot of inheritance.
