@@ -1,4 +1,4 @@
-**Graal Systems Project**
+##**Graal Systems Project**
 
 This repository is divided in 2 part : front and back.
 
@@ -65,4 +65,4 @@ Frontend :
 - Run ''' npm start ''' to spin up the frontend a new window should popup at 3000:3000
 
 
-**A short video will be provided as the app will not be deployed online + ppt for images**
+####**A short video will be provided as the app will not be deployed online + ppt for images**
